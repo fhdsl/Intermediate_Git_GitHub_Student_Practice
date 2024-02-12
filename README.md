@@ -1,2 +1,3 @@
 # Collaborative_Git_GitHub_Student_Practice
-blobblob
+
+This is a practice space for Collaborative Git and GitHub workshop. 
