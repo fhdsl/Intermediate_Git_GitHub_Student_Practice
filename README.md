@@ -2,4 +2,10 @@
 
 This is a practice space for Collaborative Git and GitHub workshop. 
 
-hello from janet this is a conflict i think
+Here's some new edits. 
+
+This is a practice space for Collaborative Git and GitHub workshop. 
+
+Dan was here
+
+hello from janet
